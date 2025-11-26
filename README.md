@@ -1,6 +1,6 @@
 
 ## 🧑‍💻 About Me  
-- 🔭 I’m currently working on: **cmdcreate** (I'm slowing down on its development)
+- 🔭 I’m currently working on: **minsh**, **cmdcreate**
 - 🌱 I’m learning: **Rust, Python, Linux**
 - 💡 Interests: **Programming, music, playing the guitar**
 - 💬 Ask me about: **Linux, Rust, Python**
@@ -12,5 +12,5 @@
 | Area | Tools |
 |-------|-------|
 | **Languages** | Rust 🦀 · Python 🐍 · Bash 🖥️ |
-| **Tools** | VSCode · Github · Hyprland/KDE Plasma |
+| **Tools** | Zed · Github · KDE Plasma |
 | **OS** | Arch Linux 🐧 |
