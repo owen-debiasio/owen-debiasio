@@ -1,6 +1,6 @@
 
 ## 🧑‍💻 About Me  
-- 🔭 I’m currently working on: **minsh**, **cmdcreate**
+- 🔭 I’m currently working on: **cmdcreate**, **minsh**
 - 🌱 I’m learning: **Rust, Python, Linux**
 - 💡 Interests: **Programming, music, playing the guitar**
 - 💬 Ask me about: **Linux, Rust, Python**
