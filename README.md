@@ -12,5 +12,5 @@
 | Area | Tools |
 |-------|-------|
 | **Languages** | Rust · Python · Bash |
-| **Tools** | Zed · Github · KDE Plasma |
+| **Tools** | Kate · Github · KDE Plasma |
 | **OS** | Arch Linux |
