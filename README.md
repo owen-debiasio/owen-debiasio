@@ -12,5 +12,5 @@
 | Area | Tools |
 |-------|-------|
 | **Languages** | Rust · Python · Bash |
-| **Tools** | Kate · Github · KDE Plasma |
+| **Tools** | RustRover · PyCharm · Github · KDE Plasma |
 | **OS** | Arch Linux |
