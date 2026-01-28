@@ -11,7 +11,7 @@
 ## Tech Stack  
 | Area | Tools |
 |-------|-------|
-| **Languages** | Rust · Python · Bash |
+| **Languages** | Rust · Python · Bash · Markdown |
 | **Tools** | My IDEs · Github · KDE Plasma |
 | **OS** | Arch Linux |
 
