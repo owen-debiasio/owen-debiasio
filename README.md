@@ -12,5 +12,13 @@
 | Area | Tools |
 |-------|-------|
 | **Languages** | Rust · Python · Bash |
-| **Tools** | RustRover · PyCharm · Github · KDE Plasma |
+| **Tools** | My IDEs · Github · KDE Plasma |
 | **OS** | Arch Linux |
+
+## The IDEs I use 
+| IDE | Why |
+|-------|-------|
+| **RustRover** | Main IDE, Main Rust development tool |
+| **PyCharm** | Work with Python and scripts |
+| **Visual Studio Code** | Editing markdown and documentation |
+| **Kate** (By KDE) | General small tasks, any language |
