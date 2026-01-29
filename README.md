@@ -1,9 +1,9 @@
 
 ## About Me  
-- I’m currently working on: **cmdcreate**
+- I’m currently working on: **[cmdcreate](https://github.com/owen-debiasio/cmdcreate)**
 - I’m learning: **Rust, Python, Linux**
 - Interests: **Programming, music, playing the guitar**
-- Ask me about: **Linux, Rust, Python**
+- Ask me about: **Linux, Rust, Python, Computers**
 - Fun fact: **I use Arch btw**
 
 ---
