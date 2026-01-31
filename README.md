@@ -20,5 +20,4 @@
 |-------|-------|
 | **RustRover** | Main IDE, Main Rust development tool |
 | **PyCharm** | Work with Python and scripts |
-| **Visual Studio Code** | Editing markdown and documentation |
-| **Kate** (By KDE) | General small tasks, any language |
+| **Visual Studio Code** | Editing markdown, documentation and writing Bash scripts
