@@ -20,4 +20,4 @@
 |-------|-------|
 | **RustRover** | Main IDE, Main Rust development tool |
 | **PyCharm** | Work with Python and scripts |
-| **Visual Studio Code** | Editing markdown, documentation and writing Bash scripts
+| **Visual Studio Code** | Small tasks, Markdown, Bash scripts
