@@ -20,4 +20,3 @@
 |-------|-------|
 | **RustRover** | Main IDE, Main Rust development tool |
 | **PyCharm** | Work with Python and scripts |
-| **Kate** | Small tasks, Markdown, Bash scripts
