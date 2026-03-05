@@ -4,7 +4,7 @@
 - I’m learning: **Rust, Python, Linux**
 - Interests: **Programming, music, playing the guitar**
 - Ask me about: **Linux, Rust, Python, Computers**
-- Fun fact: **I use Arch btw**
+<!--- - Fun fact: **I use Arch btw** --->
 
 ---
 
@@ -13,7 +13,7 @@
 |-------|-------|
 | **Languages** | Rust · Python · Bash · Markdown |
 | **Tools** | My IDEs · Github · KDE Plasma |
-| **OS** | Arch Linux |
+| **OS** | Windows 11 |
 
 ## The IDEs I use 
 | IDE | Why |
