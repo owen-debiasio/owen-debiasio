@@ -12,11 +12,12 @@
 | Area | Tools |
 |-------|-------|
 | **Languages** | Rust · Python · Bash · Markdown |
-| **Tools** | Jetbrains Toolbox · WSL · Github |
+| **Tools** | Jetbrains Toolbox · WSL · Virtualbox · Github |
 | **OS** | Windows 11 (Formerly Arch Linux) |
 
-## The IDEs I use 
-| IDE | Why |
+## The IDEs and text editors I use 
+| Editor | Why |
 |-------|-------|
 | **RustRover** | Main IDE, Main Rust development tool |
 | **PyCharm** | Work with Python and scripts |
+| **Visual Studio Code** | Work away from home |
