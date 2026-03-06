@@ -12,8 +12,8 @@
 | Area | Tools |
 |-------|-------|
 | **Languages** | Rust · Python · Bash · Markdown |
-| **Tools** | My IDEs · Github · KDE Plasma |
-| **OS** | Windows 11 |
+| **Tools** | Jetbrains Toolbox · WSL · Github |
+| **OS** | Windows 11 (Formerly Arch Linux) |
 
 ## The IDEs I use 
 | IDE | Why |
