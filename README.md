@@ -4,7 +4,6 @@
 - I’m learning: **Rust, Python, Linux**
 - Interests: **Programming, music, playing the guitar**
 - Ask me about: **Linux, Rust, Python, Computers**
-<!--- - Fun fact: **I use Arch btw** --->
 
 ---
 
@@ -13,11 +12,12 @@
 |-------|-------|
 | **Languages** | Rust · Python · Bash · Markdown |
 | **Tools** | Jetbrains Toolbox · WSL · Virtualbox · Github |
-| **OS** | Windows 11 (Formerly Arch Linux) |
+| **OS** | Arch Linux |
 
 ## The IDEs and text editors I use 
 | Editor | Why |
 |-------|-------|
 | **RustRover** | Main IDE, Main Rust development tool |
 | **PyCharm** | Work with Python and scripts |
+| **Kate** | Small and basic tasks |
 | **Visual Studio Code** | Work away from home |
