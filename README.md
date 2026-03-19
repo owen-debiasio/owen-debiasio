@@ -20,4 +20,4 @@
 | **RustRover** | Main IDE, Main Rust development tool |
 | **PyCharm** | Work with Python and scripts |
 | **Kate** | Small and basic tasks |
-| **Visual Studio Code** | Work away from home |
+<!-- | **Visual Studio Code** | Work away from home | -->
