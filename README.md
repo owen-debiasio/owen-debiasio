@@ -19,5 +19,5 @@
 |-------|-------|
 | **RustRover** | Main IDE, Main Rust development tool |
 | **PyCharm** | Work with Python and scripts |
-| **Visual Studio Code** | Basic tasks, work away from home |
+| **Zed** | Basic tasks, work away from home |
 <!-- | **Visual Studio Code** | Work away from home | -->
