@@ -17,7 +17,7 @@
 ## The IDEs and text editors I use 
 | Editor | Why |
 |-------|-------|
-| **RustRover** | Main IDE, Main Rust development tool |
+| **RustRover** | Deep involved development sessions with rust|
 | **PyCharm** | Work with Python and scripts |
-| **Zed** | Basic tasks, work away from home |
-<!-- | **Visual Studio Code** | Work away from home | -->
+| **Zed** | Normal tasks and Rust development | 
+| **Kate** | Generic coding away from home |
