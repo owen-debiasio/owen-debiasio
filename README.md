@@ -11,7 +11,7 @@
 | Area | Tools |
 |-------|-------|
 | **Languages** | Rust · Python · Bash · Markdown |
-| **Tools** | Jetbrains Toolbox · WSL · Virtualbox · Github |
+| **Tools** | Jetbrains Toolbox · WSL · Virtualbox · Github · Git|
 | **OS** | Arch Linux |
 
 ## The IDEs and text editors I use 
@@ -20,4 +20,4 @@
 | **RustRover** | Deep involved development sessions with Rust|
 | **PyCharm** | Work with Python and scripts |
 | **Zed** | Normal tasks and Rust development | 
-| **Kate** | Generic coding away from home |
+| **GNU Nano** | Generic coding away from home |
