@@ -19,5 +19,5 @@
 |-------|-------|
 | **RustRover** | Deep involved development sessions with Rust|
 | **PyCharm** | Work with Python and scripts |
-| **Zed** | Normal tasks and Rust development | 
+| **Zed** and **Kate** | Normal tasks and Rust development | 
 | **GNU Nano** | Generic coding away from home |
