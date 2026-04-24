@@ -12,12 +12,12 @@
 |-------|-------|
 | **Languages** | Rust · Python · Bash · Markdown |
 | **Tools** | Jetbrains Toolbox · WSL · Virtualbox · Github · Git|
-| **OS** | Arch Linux |
+| **OS** | Ubuntu 26.04 (Resolute Raccoon) |
 
 ## The IDEs and text editors I use 
 | Editor | Why |
 |-------|-------|
 | **RustRover** | Deep involved development sessions with Rust|
 | **PyCharm** | Work with Python and scripts |
-| **Zed** and **Kate** | Normal tasks and Rust development | 
+| **Visual Studio Code** | Normal tasks and Rust development | 
 | **GNU Nano** | Generic coding away from home |
