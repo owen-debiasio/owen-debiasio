@@ -12,7 +12,7 @@
 |-------|-------|
 | **Languages** | Rust · Python · Bash · Markdown |
 | **Tools** | Jetbrains Toolbox · WSL · Virtualbox · Github · Git |
-| **OS** | Arch Linux |
+| **OS** | CachyOS |
 
 ## The IDEs and text editors I use 
 | Editor | Why |
