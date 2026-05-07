@@ -20,4 +20,4 @@
 | **RustRover** | Deep involved development sessions with Rust|
 | **PyCharm** | Work with Python and scripts |
 | **Zed** | Normal tasks and Rust development | 
-| **GNU Nano** | Generic coding away from home |
+| **Visual Studio Code** | Stuff away from home |
