@@ -1,4 +1,5 @@
 
+<!-- 
 ## About Me  
 - I’m currently working on: **[cmdcreate](https://github.com/owen-debiasio/cmdcreate)**
 - I’m learning: **Rust, Python, Linux**
@@ -21,3 +22,20 @@
 | **PyCharm** | Work with Python and scripts |
 | **Zed** | Normal tasks and Rust development | 
 | **Visual Studio Code** | Stuff away from home |
+-->
+
+## About Me  
+- I’m currently working on: **[cmdcreate](https://github.com/owen-debiasio/cmdcreate)**
+- I’m learning: **Rust, Python, Linux**
+- Interests: **Programming, music, playing the guitar**
+- Ask me about: **Linux, Rust, Python, Computers**
+
+---
+
+## Tech Stack  
+| Area | Tools |
+|-------|-------|
+| **Languages** | Rust · Python · Bash · Markdown |
+| **Tools** | WSL · Github · Git · Visual Studio Code |
+| **OS** | Windows 11 |
+
