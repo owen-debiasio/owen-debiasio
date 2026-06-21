@@ -36,6 +36,6 @@
 | Area | Tools |
 |-------|-------|
 | **Languages** | Rust · Python · Bash · Markdown |
-| **Tools** | WSL · Github · Git · Visual Studio Code |
-| **OS** | Windows 11 |
+| **Tools** | Github · Git · Visual Studio Code |
+| **OS** | Arch Linux |
 
