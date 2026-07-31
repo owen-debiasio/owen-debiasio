@@ -36,5 +36,5 @@
 | Area | Tools |
 |-------|-------|
 | **Languages** | Rust · Python · Bash · Markdown |
-| **Tools** | Github · Git · VSCode |
-| **OS** | Cachy OS |
+| **Tools** | Github · Git · Kate |
+| **OS** | Arch Linux |
