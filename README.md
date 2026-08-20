@@ -36,5 +36,5 @@
 | Area | Tools |
 |-------|-------|
 | **Languages** | Rust · Python · Bash · Markdown |
-| **Tools** | Github · Git · Kate/Zed |
+| **Tools** | Github · Git · Zed |
 | **OS** | Arch Linux |
