@@ -36,5 +36,6 @@
 | Area | Tools |
 |-------|-------|
 | **Languages** | Rust · Python · Bash · Markdown |
-| **Tools** | Github · Git · Zed |
-| **OS** | Arch Linux |
+| **Tools** | Git · Rustup · Cargo |
+| **Editors** | VSCode · Zed · Rustrover · Kate |
+| **OS** | Arch Linux w/ KDE Plasma, ext4, GRUB |
