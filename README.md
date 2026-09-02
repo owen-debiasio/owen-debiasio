@@ -36,7 +36,7 @@
 | Area | Tools |
 |-------|-------|
 | **Languages** | Rust · Python · Bash · Markdown |
-| **Tools** | Git · Rustup · Cargo · WSL |
-| **Editors** | VSCode · Zed · Rustrover |
-| **OS** | Windows 11 26H2 (Release Preview) |
-<!-- | **OS** | Arch Linux w/ KDE Plasma, ext4, GRUB | -->
+| **Tools** | Git · Rustup · Cargo <!--· WSL --> |
+| **Editors** | <!--VSCode · -->Zed · Kate |
+| **OS** | Arch Linux w/ KDE Plasma, ext4, GRUB |
+<!-- | **OS** | Windows 11 26H2 (Release Preview) | -->
