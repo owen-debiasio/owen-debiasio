@@ -37,7 +37,7 @@
 |-------|-------|
 | **Languages** | Rust · Python · Bash · Markdown |
 | **Tools** | Git · Rustup · Cargo · Distrobox <!--· WSL --> |
-| **Editors** | VSCode · Zed<!-- · Kate --> |
-| **OS** | KDE Linux |
-<!-- | **OS** | Arch Linux w/ KDE Plasma, ext4, GRUB | -->
+| **Editor(s)** | <!--VSCode ·  -->Zed<!-- · Kate --> |
+<!--| **OS** | KDE Linux | -->
+| **OS** | Arch Linux w/ KDE Plasma, ext4, GRUB |
 <!-- | **OS** | Windows 11 26H2 (Release Preview) | -->
