@@ -12,8 +12,10 @@
 | Area | Tools |
 |-------|-------|
 | **Languages** | Rust · Python · Bash · Markdown |
-| **Tools** | Git · Rustup · Cargo · Distrobox <!--· WSL --> |
-| **Editor(s)** | <!--VSCode ·  -->Zed · Kate |
-| **OS** | Arch Linux w/ KDE Plasma, ext4, GRUB |
+| **Tools** | Git · Rustup · Cargo · Distrobox · Docker <!--· WSL --> |
+| **Editor(s)** | VSCode |
+| **OS** | Ubuntu 26.04.1 |
+<!--| **Editor(s)** | <!--VSCode ·  -->Zed · Kate | -->
+<!--| **OS** | Arch Linux w/ KDE Plasma, ext4, GRUB | -->
 <!--| **OS** | KDE Linux | -->
 <!-- | **OS** | Windows 11 26H2 (Release Preview) | -->
