@@ -12,6 +12,6 @@
 | Area | Tools |
 |-------|-------|
 | **Languages** | Rust · Python · Bash · Markdown |
-| **Tools** | Git · Rustup · Cargo · Distrobox · Docker · WSL · VScode CLI |
+| **Tools** | Git · Rustup · Cargo · Distrobox · Docker · WSL · VSCode CLI |
 | **Editor(s)** | VSCode |
-| **OS** | Ubuntu 26.04.1 |
+| **OS** | Windows 11 26H2 |
