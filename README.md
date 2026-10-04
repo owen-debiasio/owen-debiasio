@@ -14,4 +14,4 @@
 | **Languages** | Rust · Python · Bash · Markdown |
 | **Tools** | Git · Rustup · Cargo · Distrobox · Docker · WSL · VSCode CLI |
 | **Editor(s)** | VSCode |
-| **OS** | Windows 11 26H2 |
+| **OS** | Linux Mint 22.3 |
