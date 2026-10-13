@@ -13,5 +13,5 @@
 |-------|-------|
 | **Languages** | Rust · Python · Bash · Markdown |
 | **Tools** | Git · Rustup · Cargo · Distrobox · Docker · WSL · VSCode CLI |
-| **Editor(s)** | VSCode |
-| **OS** | Linux Mint 22.3 |
+| **Editor(s)** | Zed |
+| **OS** | Arch Linux w/ KDE Plasma |
