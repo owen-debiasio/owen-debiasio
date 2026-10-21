@@ -14,4 +14,4 @@
 | **Languages** | Rust · Python · Bash · Markdown · HTML · CSS · Javascript |
 | **Tools** | Git · Rustup · Cargo · Distrobox · Docker · WSL · VSCode CLI |
 | **Editor** | Visual Studio Code |
-| **OS** | Arch Linux w/ KDE Plasma |
+| **OS** | Windows 11 26H2 |
