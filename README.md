@@ -14,4 +14,4 @@
 | **Languages** | Rust · Python · Bash · Markdown · HTML · CSS · Javascript |
 | **Tools** | Git · Rustup · Cargo · Distrobox · Docker · WSL · VSCode CLI |
 | **Editor** | Zed |
-| **OS** | Arch Linux w/ GNOME |
+| **OS** | Arch Linux w/ KDE Plasma |
